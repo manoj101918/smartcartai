@@ -54,6 +54,8 @@ uv run pytest tests/ -v
 - `npm run start` — Production server
 - `npm run lint` — ESLint
 
+update
+
 ## Payments
 
 Checkout uses a **mock** sandbox flow (`USE_REAL_PAYMENT = false` in `src/app/checkout/page.tsx`). Replace with Razorpay when you are ready for real charges.
