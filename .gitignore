@@ -44,7 +44,8 @@ backend/.venv/
 .vercel
 
 # python
-__pycache__/
+**/__pycache__/
+**/*.pyc
 *.pyc
 *.egg-info/
 smartcartai/
